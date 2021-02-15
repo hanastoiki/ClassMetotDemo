@@ -13,7 +13,7 @@ namespace ClassMetotDemo
 
         public void MusteriSil(Musteri musteri)
         {
-            Console.WriteLine("Müşteri Silindi!" + "'" + musteri.AdSoyad);
+            Console.WriteLine("Müşteri Silindi!" + "'" + musteri.AdSoyad + "'");
         }
 
         public void MusteriListele(Musteri musteri)
